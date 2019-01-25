@@ -1,0 +1,403 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="75b4d3f2-cdf0-49c5-b534-b89360a31c91" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/../hybris/.idea/ant.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../hybris/.idea/ant.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hybris/.idea/codeStyles/Project.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hybris/.idea/codeStyles/codeStyleConfig.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hybris/.idea/compiler.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hybris/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hybris/.idea/hybrisProjectSettings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../hybris/.idea/hybrisProjectSettings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hybris/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hybris/.idea/libraries/Backoffice_Library.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../hybris/.idea/libraries/Backoffice_Library.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hybris/.idea/libraries/Platform_Bootstrap.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../hybris/.idea/libraries/Platform_Bootstrap.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hybris/.idea/libraries/acceleratorstorefrontcommons_commonweb_lib.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hybris/.idea/libraries/wileystorefrontcommons_commonweb_lib.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hybris/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../hybris/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hybris/.idea/runConfigurations/Integration_Tests.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../hybris/.idea/runConfigurations/Integration_Tests.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hybris/.idea/runConfigurations/Remote_debug.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../hybris/.idea/runConfigurations/Remote_debug.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hybris/.idea/runConfigurations/Unit_Tests.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../hybris/.idea/runConfigurations/Unit_Tests.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hybris/bin/custom/migration/resources/migration/antmacros.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../hybris/bin/custom/migration/resources/migration/antmacros.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hybris/bin/custom/wiley/agsstorefront/web/webroot/WEB-INF/tags/responsive/address/addressFormElements.tag" beforeDir="false" afterPath="$PROJECT_DIR$/../hybris/bin/custom/wiley/agsstorefront/web/webroot/WEB-INF/tags/responsive/address/addressFormElements.tag" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hybris/bin/custom/wiley/welstorefront/web/webroot/WEB-INF/tags/responsive/address/addressFormElements.tag" beforeDir="false" afterPath="$PROJECT_DIR$/../hybris/bin/custom/wiley/welstorefront/web/webroot/WEB-INF/tags/responsive/address/addressFormElements.tag" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hybris/bin/custom/wiley/wileyasinitialdata/resources/wileyasinitialdata/import/coredata/common/sync.impex" beforeDir="false" afterPath="$PROJECT_DIR$/../hybris/bin/custom/wiley/wileyasinitialdata/resources/wileyasinitialdata/import/coredata/common/sync.impex" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hybris/bin/custom/wiley/wileyasinitialdata/resources/wileyasinitialdata/import/coredata/productCatalogs/asProductCatalog/catalog.impex" beforeDir="false" afterPath="$PROJECT_DIR$/../hybris/bin/custom/wiley/wileyasinitialdata/resources/wileyasinitialdata/import/coredata/productCatalogs/asProductCatalog/catalog.impex" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hybris/bin/custom/wiley/wileyb2cstorefront/web/webroot/WEB-INF/views/responsive/pages/layout/wileyRichContentPage.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/../hybris/bin/custom/wiley/wileyb2cstorefront/web/webroot/WEB-INF/views/responsive/pages/layout/wileyRichContentPage.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hybris/bin/custom/wiley/wileybackoffice/extensioninfo.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../hybris/bin/custom/wiley/wileybackoffice/extensioninfo.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hybris/bin/custom/wiley/wileybackoffice/resources/impex/essentialdata-wileycustomersupportmanagergroup.impex" beforeDir="false" afterPath="$PROJECT_DIR$/../hybris/bin/custom/wiley/wileybackoffice/resources/impex/essentialdata-wileycustomersupportmanagergroup.impex" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hybris/bin/custom/wiley/wileycockpits/extensioninfo.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../hybris/bin/custom/wiley/wileycockpits/extensioninfo.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hybris/bin/custom/wiley/wileycominitialdata/resources/wileycominitialdata/import/coredata/common/sync.impex" beforeDir="false" afterPath="$PROJECT_DIR$/../hybris/bin/custom/wiley/wileycominitialdata/resources/wileycominitialdata/import/coredata/common/sync.impex" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hybris/bin/custom/wiley/wileycominitialdata/resources/wileycominitialdata/import/coredata/contentCatalogs/wileycomContentCatalog/cms-content.impex" beforeDir="false" afterPath="$PROJECT_DIR$/../hybris/bin/custom/wiley/wileycominitialdata/resources/wileycominitialdata/import/coredata/contentCatalogs/wileycomContentCatalog/cms-content.impex" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hybris/bin/custom/wiley/wileycominitialdata/resources/wileycominitialdata/import/coredata/productCatalogs/wileyProductCatalog/catalog.impex" beforeDir="false" afterPath="$PROJECT_DIR$/../hybris/bin/custom/wiley/wileycominitialdata/resources/wileycominitialdata/import/coredata/productCatalogs/wileyProductCatalog/catalog.impex" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hybris/bin/custom/wiley/wileycominitialdata/resources/wileycominitialdata/import/proddatap41/contentCatalogs/wileycomContentCatalog/cms-content.impex" beforeDir="false" afterPath="$PROJECT_DIR$/../hybris/bin/custom/wiley/wileycominitialdata/resources/wileycominitialdata/import/proddatap41/contentCatalogs/wileycomContentCatalog/cms-content.impex" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hybris/bin/custom/wiley/wileycominitialdata/resources/wileycominitialdata/import/proddatap41/contentCatalogs/wileycomContentCatalog/cms-content_en.impex" beforeDir="false" afterPath="$PROJECT_DIR$/../hybris/bin/custom/wiley/wileycominitialdata/resources/wileycominitialdata/import/proddatap41/contentCatalogs/wileycomContentCatalog/cms-content_en.impex" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hybris/bin/custom/wiley/wileycominitialdata/resources/wileycominitialdata/import/sampledatap41/contentCatalogs/wileycomContentCatalog/cms-content.impex" beforeDir="false" afterPath="$PROJECT_DIR$/../hybris/bin/custom/wiley/wileycominitialdata/resources/wileycominitialdata/import/sampledatap41/contentCatalogs/wileycomContentCatalog/cms-content.impex" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hybris/bin/custom/wiley/wileycore/resources/wileycore-spring.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../hybris/bin/custom/wiley/wileycore/resources/wileycore-spring.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hybris/bin/custom/wiley/wileycore/src/com/wiley/core/category/interceptors/WileyCategoryProductsValidateInterceptor.java" beforeDir="false" afterPath="$PROJECT_DIR$/../hybris/bin/custom/wiley/wileycore/src/com/wiley/core/category/interceptors/WileyCategoryProductsValidateInterceptor.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hybris/bin/custom/wiley/wileycore/src/com/wiley/core/payment/strategies/impl/AmountToPayCalculationStrategyImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/../hybris/bin/custom/wiley/wileycore/src/com/wiley/core/payment/strategies/impl/AmountToPayCalculationStrategyImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hybris/bin/custom/wiley/wileyfacades/src/com/wiley/facades/welags/customer/impl/WelAgsCustomerFacadeImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/../hybris/bin/custom/wiley/wileyfacades/src/com/wiley/facades/welags/customer/impl/WelAgsCustomerFacadeImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hybris/bin/custom/wiley/wileyinitialdata/resources/wileyinitialdata/import/coredata/productCatalogs/agsProductCatalog/catalog.impex" beforeDir="false" afterPath="$PROJECT_DIR$/../hybris/bin/custom/wiley/wileyinitialdata/resources/wileyinitialdata/import/coredata/productCatalogs/agsProductCatalog/catalog.impex" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hybris/bin/custom/wiley/wileyinitialdata/resources/wileyinitialdata/import/coredata/productCatalogs/welProductCatalog/catalog.impex" beforeDir="false" afterPath="$PROJECT_DIR$/../hybris/bin/custom/wiley/wileyinitialdata/resources/wileyinitialdata/import/coredata/productCatalogs/welProductCatalog/catalog.impex" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hybris/bin/custom/wiley/wileyinitialdata/resources/wileyinitialdata/import/sampledata/productCatalogs/welProductCatalog/categories.impex" beforeDir="false" afterPath="$PROJECT_DIR$/../hybris/bin/custom/wiley/wileyinitialdata/resources/wileyinitialdata/import/sampledata/productCatalogs/welProductCatalog/categories.impex" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hybris/bin/custom/wiley/wileyinitialdata/resources/wileyinitialdata/import/sampledata/productCatalogs/welProductCatalog/csv/variant-value-categories.csv" beforeDir="false" afterPath="$PROJECT_DIR$/../hybris/bin/custom/wiley/wileyinitialdata/resources/wileyinitialdata/import/sampledata/productCatalogs/welProductCatalog/csv/variant-value-categories.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hybris/config/tomcat/conf/server.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../hybris/config/tomcat/conf/server.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hybris/docker/Dockerfile" beforeDir="false" afterPath="$PROJECT_DIR$/../hybris/docker/Dockerfile" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hybris/docker/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hybris/docker/docker-entrypoint.sh" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hybris/docker/ootbExtensionVolatileFiles.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hybris/docker/platformVolatileFiles.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hybris/docker/startup.sh" beforeDir="false" afterPath="$PROJECT_DIR$/../hybris/docker/startup.sh" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hybris/idea-module-files/acceleratorcms.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hybris/idea-module-files/acceleratorfacades.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hybris/idea-module-files/acceleratorservices.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hybris/idea-module-files/acceleratorstorefrontcommons.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hybris/idea-module-files/addonsupport.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hybris/idea-module-files/admincockpit.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hybris/idea-module-files/advancedsavedquery.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hybris/idea-module-files/agsstorefront.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hybris/idea-module-files/all_local_extensions.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hybris/idea-module-files/amazoncloud.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hybris/idea-module-files/assistedservicefacades.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hybris/idea-module-files/assistedserviceservices.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hybris/idea-module-files/assistedservicestorefront.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hybris/idea-module-files/b2bacceleratorfacades.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hybris/idea-module-files/b2bacceleratorservices.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hybris/idea-module-files/b2badmincockpit.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hybris/idea-module-files/b2bapprovalprocess.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hybris/idea-module-files/b2bapprovalprocessfacades.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hybris/idea-module-files/b2bcommerce.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hybris/idea-module-files/b2bcommercefacades.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hybris/idea-module-files/backoffice.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hybris/idea-module-files/basecommerce.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hybris/idea-module-files/basecommercebackoffice.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hybris/idea-module-files/catalog.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hybris/idea-module-files/cms2.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hybris/idea-module-files/cms2lib.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hybris/idea-module-files/cmscockpit.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hybris/idea-module-files/cockpit.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hybris/idea-module-files/comments.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hybris/idea-module-files/commercefacades.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hybris/idea-module-files/commercesearch.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hybris/idea-module-files/commercesearchbackoffice.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hybris/idea-module-files/commerceservices.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hybris/idea-module-files/commerceservicesbackoffice.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hybris/idea-module-files/commercewebservicescommons.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hybris/idea-module-files/commons.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hybris/idea-module-files/config.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hybris/idea-module-files/core.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hybris/idea-module-files/couponbackoffice.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hybris/idea-module-files/couponfacades.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hybris/idea-module-files/couponservices.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hybris/idea-module-files/cscockpit.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hybris/idea-module-files/customerreview.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hybris/idea-module-files/customersupportbackoffice.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hybris/idea-module-files/deliveryzone.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hybris/idea-module-files/droolsruleengineservices.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hybris/idea-module-files/embeddedserver.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hybris/idea-module-files/europe1.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hybris/idea-module-files/hac.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hybris/idea-module-files/hmc.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hybris/idea-module-files/impex.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hybris/idea-module-files/ldap.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hybris/idea-module-files/lucenesearch.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hybris/idea-module-files/maintenanceweb.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hybris/idea-module-files/mediaweb.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hybris/idea-module-files/migration.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hybris/idea-module-files/npmancillary.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hybris/idea-module-files/oauth2.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hybris/idea-module-files/ordercalculation.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hybris/idea-module-files/payment.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hybris/idea-module-files/paymentstandard.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hybris/idea-module-files/paypal.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hybris/idea-module-files/paypaladdon.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hybris/idea-module-files/platform.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hybris/idea-module-files/platformbackoffice.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hybris/idea-module-files/platformservices.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hybris/idea-module-files/platformwebservices.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hybris/idea-module-files/processing.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hybris/idea-module-files/productcockpit.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hybris/idea-module-files/promotionenginebackoffice.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hybris/idea-module-files/promotionengineservices.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hybris/idea-module-files/promotions.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hybris/idea-module-files/promotionsbackoffice.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hybris/idea-module-files/reportcockpit.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hybris/idea-module-files/rulebuilderbackoffice.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hybris/idea-module-files/ruledefinitions.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hybris/idea-module-files/ruleengine.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hybris/idea-module-files/ruleenginebackoffice.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hybris/idea-module-files/ruleengineservices.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hybris/idea-module-files/scripting.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hybris/idea-module-files/solrfacetsearch.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hybris/idea-module-files/solrfacetsearchbackoffice.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hybris/idea-module-files/solrserver.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hybris/idea-module-files/springintegrationlibs.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hybris/idea-module-files/subscriptionfacades.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hybris/idea-module-files/subscriptionservices.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hybris/idea-module-files/testweb.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hybris/idea-module-files/textfieldconfiguratortemplatebackoffice.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hybris/idea-module-files/textfieldconfiguratortemplateservices.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hybris/idea-module-files/ticketsystem.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hybris/idea-module-files/ticketsystembackoffice.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hybris/idea-module-files/tomcatembeddedserver.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hybris/idea-module-files/validation.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hybris/idea-module-files/virtualjdbc.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hybris/idea-module-files/voucher.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hybris/idea-module-files/voucherbackoffice.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hybris/idea-module-files/webservicescommons.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hybris/idea-module-files/welagsstorefrontcommons.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hybris/idea-module-files/welstorefront.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hybris/idea-module-files/wileyasinitialdata.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hybris/idea-module-files/wileyasstorefront.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hybris/idea-module-files/wileyb2cstorefront.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hybris/idea-module-files/wileybackoffice.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hybris/idea-module-files/wileybrightedge.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hybris/idea-module-files/wileycockpits.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hybris/idea-module-files/wileycominitialdata.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hybris/idea-module-files/wileycomstorefrontcommons.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hybris/idea-module-files/wileycore.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hybris/idea-module-files/wileyfacades.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hybris/idea-module-files/wileyfulfilmentprocess.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hybris/idea-module-files/wileyhmc.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hybris/idea-module-files/wileyinitialdata.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hybris/idea-module-files/wileyintegrations.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hybris/idea-module-files/wileystorefrontcommons.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hybris/idea-module-files/wileytest.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hybris/idea-module-files/wileyws.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hybris/idea-module-files/wileywstest.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hybris/idea-module-files/wiremock.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hybris/idea-module-files/workflow.iml" beforeDir="false" />
+    </list>
+    <ignored path="$PROJECT_DIR$/out/" />
+    <ignored path="$PROJECT_DIR$/target/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CheckStyle-IDEA-workspace">
+    <option name="configuration">
+      <map>
+        <entry key="last-active-plugin-version" value="5.23.0" />
+      </map>
+    </option>
+  </component>
+  <component name="FUSProjectUsageTrigger">
+    <session id="1314428625">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.closed" value="1" />
+          <entry key="project.open.time.1" value="1" />
+          <entry key="project.opened" value="1" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="java" value="1" />
+          <entry key="xml" value="1" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="JAVA" value="1" />
+          <entry key="XML" value="1" />
+        </counts>
+      </usages-collector>
+    </session>
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/pom.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="126">
+              <caret line="6" column="13" lean-forward="true" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="27" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/epam/keiko/entity/student.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="42">
+              <caret line="2" column="20" selection-start-line="2" selection-start-column="20" selection-end-line="2" selection-end-column="20" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="402" />
+    <option name="y" value="93" />
+    <option name="width" value="1400" />
+    <option name="height" value="1000" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="hibern" type="b2602c69:ProjectViewProjectNode" />
+              <item name="hibern" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="hibern" type="b2602c69:ProjectViewProjectNode" />
+              <item name="hibern" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="hibern" type="b2602c69:ProjectViewProjectNode" />
+              <item name="hibern" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="hibern" type="b2602c69:ProjectViewProjectNode" />
+              <item name="hibern" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="hibern" type="b2602c69:ProjectViewProjectNode" />
+              <item name="hibern" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="entity" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1548402876694" />
+    <property name="settings.editor.selected.configurable" value="com.zeroturnaround.javarebel.idea.plugin.settings.startup.StartupConfigurable" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="75b4d3f2-cdf0-49c5-b534-b89360a31c91" name="Default Changelist" comment="" />
+      <created>1548402747724</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1548402747724</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
+    <layout>
+      <window_info id="Designer" />
+      <window_info id="Image Layers" />
+      <window_info id="UI Designer" />
+      <window_info id="JRebel" side_tool="true" />
+      <window_info id="Favorites" side_tool="true" />
+      <window_info id="Capture Tool" />
+      <window_info id="Learn" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="Terminal" />
+      <window_info anchor="bottom" id="CheckStyle" />
+      <window_info anchor="bottom" id="Event Log" side_tool="true" />
+      <window_info anchor="bottom" id="Version Control" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Hybris Console [Experimental]" />
+      <window_info anchor="bottom" id="JRebel Console" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="right" id="Palette" />
+      <window_info anchor="right" id="Maven-2 Build" />
+      <window_info anchor="right" id="Capture Analysis" />
+      <window_info anchor="right" id="Maven Projects" />
+      <window_info anchor="right" id="Palette&#9;" />
+      <window_info anchor="right" id="Theme Preview" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+    </layout>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/.idea/checkstyle-idea.xml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="126">
+          <caret line="6" column="13" lean-forward="true" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/epam/keiko/entity/student.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="42">
+          <caret line="2" column="20" selection-start-line="2" selection-start-column="20" selection-end-line="2" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
